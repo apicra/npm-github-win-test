@@ -1,4 +1,5 @@
-rm -rf .git
+::rm -rf .git
+RMDIR /Q/S .git
 git init
 git remote add [REMOTE_NAME] [GIT_URL]
 git fetch REMOTE_NAME
