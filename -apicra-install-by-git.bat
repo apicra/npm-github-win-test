@@ -1,2 +1,3 @@
 mkdir .apicra
-git clone https://github.com/apicra/npm-github-win.git
+echo .apicra/ >> .gitignore
+git clone https://github.com/apicra/npm-github-win.git .apicra
