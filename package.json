@@ -1,0 +1,20 @@
+{
+  "name": "npm-github-win-test",
+  "version": "1.0.4",
+  "description": "for testing npm-github-win",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apicra/npm-github-win-test.git"
+  },
+  "keywords": [],
+  "author": "Tom Sapletta <t@sapletta.com> (https://tom.sapletta.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apicra/npm-github-win-test/issues"
+  },
+  "homepage": "https://github.com/apicra/npm-github-win-test#readme"
+}
