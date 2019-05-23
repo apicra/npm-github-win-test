@@ -16,5 +16,17 @@ use one of few commands to install on windows console
     -apicra-update-by-git.bat
 
 
+### Create package.json
+
+    -npm-init-package.bat
+
+### Check a version
+
+    -apicra-version.bat
 
 
+### Create first ticket
+
+    -apicra-ticket.bat
+
+### commit &  push changes to git repository
