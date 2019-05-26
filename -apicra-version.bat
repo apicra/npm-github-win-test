@@ -1,1 +1,5 @@
-.apicra/-version.bat
+::.apicra\-version.bat
+.apicra\-variable-git-url.bat
+.apicra\-variable-home-url.bat
+.apicra\-variable-npm-url.bat
+.apicra\-variable-version.bat

@@ -16,5 +16,7 @@
   "bugs": {
     "url": "https://github.com/apicra/npm-github-win-test/issues"
   },
-  "homepage": "https://github.com/apicra/npm-github-win-test#readme"
+  "homepage": "https://github.com/apicra/npm-github-win-test#readme",
+  "npmjs": "https://www.npmjs.com/package/gitpad-github",
+  "github": "https://github.com/gitpad-pl/github"
 }
